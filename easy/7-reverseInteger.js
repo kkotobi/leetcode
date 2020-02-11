@@ -1,19 +1,17 @@
 /**
  * @description Takes an integer and reverses it, the int is a signed 32 bit max
- *
  * Given
- * Example 1:
- *   Input: 123
- *   Output: 321
+ *  Example 1:
+ *    Input: 123
+ *    Output: 321
  *
- *   Example 2:
- Input: -123
- Output: -321
-
- Example 3:
- Input: 120
- Output: 21
+ *  Example 2:
+ *    Input: -123
+ *     Output: -321
  *
+ *  Example 3:
+ *    Input: 120
+ *    Output: 21
  *
  * @param number {number}
  * @returns {number}
