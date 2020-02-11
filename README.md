@@ -1,2 +1,2 @@
-# leetcode
-A collection of solved problems from leetcode
+# Leetcode
+A collection of solved problems from [leetcode](https://leetcode.com/) 
